@@ -1,0 +1,73 @@
+body{
+    background-color: azure;
+    background-size: cover;
+}
+
+
+#backimg{
+   
+     background-color: azure;
+    background-size: cover;
+}
+
+#nav{
+    background-image: url(mudassir-ali-NZ0HxSy55hY-unsplash.jpg); 
+    background-size: cover;
+    color: white;
+    border-radius: 5px;
+    
+}
+.bi{
+    color: rgb(173, 91, 162);
+    font-size: 1.5rem; 
+}
+.para{
+  transition: transform 0.3s ease;
+  cursor: pointer;
+
+}
+.para-hover{
+    transform: translateY(-10px);
+
+}
+.para-active{
+    transform: scale(0.95);
+}
+.my-button{
+   
+   color: rgb(17, 1, 1);
+   border-radius: 10px;
+   padding: 5px;
+    
+}
+.box1{
+   transition: transform 0.3s ease;
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+   
+}
+.box1:hover{
+    transform: translateY(-10px);
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+.my-button1{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+
+
+}
+.about{
+    background-color: rgb(238, 245, 245);
+}
+#about{
+    padding-top: 100px;
+}
+#Int{
+     padding-top: 100px;
+}
+#Edu{
+     padding-top: 100px;
+}
+#Exp{
+     padding-top: 100px;
+}
